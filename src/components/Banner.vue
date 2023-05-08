@@ -13,9 +13,9 @@
 <style scoped>
 	#main-banner {
 		background-image: url("/Estudo/Vue/burguer_project/public/img/burger.jpg");
-		background-position: 0 -250px;
+		background-position: 0 -350px;
 		background-size: cover;
-		height: 500px;
+		height: 700px;
 		display: flex;
 		align-items: center;
 		justify-content: flex-start;
